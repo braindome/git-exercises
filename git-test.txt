@@ -1,3 +1,7 @@
 This is a git test.
 
+<<<<<<< HEAD
 File edited in the browser. New edit on local.
+=======
+File edited in the browser. New edit in browser.
+>>>>>>> 3bc0998fcedf44ef8ac61c78039526036b4ad675
