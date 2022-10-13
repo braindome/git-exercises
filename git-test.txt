@@ -1,5 +1,7 @@
 This is a git test.
 
+Who is writing this?
+
 <<<<<<< HEAD
 File edited in the browser. New edit on local.
 =======
